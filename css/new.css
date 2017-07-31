@@ -1,0 +1,25 @@
+.navbar-default{
+    background-color:beige;
+}
+.navbar-nav li{
+    padding-right:50px;
+}
+.navbar-nav li .dropdown{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.navbar-header h2{
+    padding-top: 10px;
+}
+.right-align{
+    background-color: #cfd8dc;
+    margin:2% 0;
+    padding:2%;
+    font-size:17px;
+}
+.btn-pad{
+    padding:4px 10px;
+}
+.right-align .form-group{
+    float:right;
+}
