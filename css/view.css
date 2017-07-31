@@ -1,0 +1,54 @@
+.navbar-default{
+    background-color:beige;
+}
+.navbar-nav li{
+    padding-right:50px;
+}
+.navbar-nav li .dropdown{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.navbar-header h2{
+    padding-top: 10px;
+}
+.right-align{
+    background-color: #cfd8dc;
+    margin:2% 0;
+    padding:2%;
+    font-size:17px;
+}
+.btn-pad{
+    padding:4px 10px;
+}
+.right-align .form-group{
+    float:right;
+}
+.bg-color {
+    background-color: beige;
+    padding: 3% 1%;
+    margin-bottom: 2%;
+}
+.view{
+    background-color: #05abe0;
+    padding:2%;
+    text-align:center;
+}
+.title{
+    border:1px solid grey;
+    padding:1%;
+    height:auto;
+}
+.description{
+    border:1px solid grey;
+    height:auto;
+    padding:5%;
+}
+/*Mobile CSS*/
+@media (max-width:767px){
+    .navbar-header{
+        text-align:center;
+    }
+    .navbar-right{
+        padding-left:10px;
+    }
+}

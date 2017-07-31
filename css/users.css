@@ -1,0 +1,50 @@
+/*Header Css*/
+.navbar-default{
+    background-color:beige;
+}
+ul{
+    list-style-type:none;
+}
+.navbar-nav li{
+    padding-right:50px;
+}
+.navbar-header h2{
+    padding-top: 10px;
+}
+.navbar-nav li .dropdown{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.bg-color{
+    background-color:beige;
+    padding:3% 1%;
+    margin-bottom:2%;
+}
+.dropdown-menu li{
+    padding-right:0;
+}
+/*Header Css End*/
+.nav-pills{
+    font-size:18px;
+}
+.nav-pills li{
+    width:20%;
+}
+.right-align{
+    background-color: #cfd8dc;
+    margin:2% 0;
+    padding:2%;
+    font-size:17px;
+}
+.btn-pad{
+    padding:4px 10px;
+}
+.right-align .form-group{
+    float:right;
+}
+.btn-center{
+    text-align:center;
+}
+.drpdwn{
+    margin-left:25%;
+}

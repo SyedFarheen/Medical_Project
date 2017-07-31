@@ -1,0 +1,9 @@
+.center-align{
+    margin-top: 9%;
+    padding: 5% 0;
+}
+.center-align form{
+    padding:5%;
+    background-color:lightgoldenrodyellow;
+   /* border: 3px solid green;*/
+}
